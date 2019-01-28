@@ -4,3 +4,5 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	It is a temprorary area and it helps us to commit a logical change by letting us add more than one file into it and commit all of them at once
 **************************
+How can you use the staging area to make sure you have one commit per logical change?
+	With the help of diff --stage and diff command we can compare our changes and when they mean something logical we commit them 
