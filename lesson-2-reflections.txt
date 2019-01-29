@@ -5,4 +5,8 @@ How is the staging area different from the working directory and the repository?
 	It is a temprorary area and it helps us to commit a logical change by letting us add more than one file into it and commit all of them at once
 **************************
 How can you use the staging area to make sure you have one commit per logical change?
-	With the help of diff --stage and diff command we can compare our changes and when they mean something logical we commit them 
+	With the help of diff --stage and diff command we can compare our changes and when they mean something logical we commit them
+**************************
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	when we want to work on an exprimental feature or a diffrent language or layout but we dont want to make things complicated so branching help us test those things
+	and if they worked properly we can merge them to our main branch 
