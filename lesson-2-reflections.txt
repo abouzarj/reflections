@@ -17,3 +17,6 @@ How do the diagrams help you visualize the branch structure?
 How do the diagrams help you visualize the branch structure?
 	With the git log --grph -- online branch_name command
 **************************
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	the result is a commit to which branch that was checkedout before merging - becuse this new commit is childern of both branches
+***************************
