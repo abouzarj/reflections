@@ -20,3 +20,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	the result is a commit to which branch that was checkedout before merging - becuse this new commit is childern of both branches
 ***************************
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	It will take lots of times to always merge files manually but in some cases we have to do it manually
+	like when a function have been updated with to diffrent people and git dosent know which one is the better and ...
+***************************
