@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	and branches are a seires of commits with a label insid a repository wheter it is a forked repository or cloned repository
 	when we forked a repo we can then clone it to our local copmuter and use it.
 *******************************
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	If I don't have acces to the internet and I can check the last time histiry of my remote repository and also it helps git to keep track of my local changes and github changes and combine them together
+*******************************
